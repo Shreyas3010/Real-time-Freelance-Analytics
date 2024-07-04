@@ -1,7 +1,7 @@
-# FreeLancelot
-Java Project using play framework -SOEN -6441
+# SOEN6441 - Advanced Programming Practices
 
-Task A:- Saba;
-Task B:- Shreyas;
-Task C:- Aditi ;
-Task D:- Anurag 
+## Team:
+- Shreyas Patel
+- Anurag Shekhar
+- Aditi Arora
+- Almas Saba
